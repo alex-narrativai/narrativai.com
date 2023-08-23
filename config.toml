@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "Narrativai"
-languageCode = "en-us"
+languageCode = "en-gb"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
@@ -16,12 +16,11 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   copyright = "Alex Springer" # Footer copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  twitter_cards = false # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
-  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  post_meta = ["categories"] # Order of post meta information
   mainSections = ["tech", "posts", "blog"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "2006-01-02" # Change the format of dates
   mathjax = true # Enable MathJax
@@ -36,7 +35,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   highlightColor = "" # Deprecated in favor of .Site.Params.style.vars.highlightColor
 
 [Params.style.vars]
-  highlightColor = "black" # Override highlight color
+  highlightColor = '#EA445A' # Override highlight color
 
   # Override font-family sets
   # Take care of different quotes OR escaping symbols in these params if necessary
@@ -54,10 +53,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
+  list = "right"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+  widgets = ["recent", "categories", "taglist", "social", "languages"]
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
@@ -67,14 +66,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  # facebook = "username"
-  # twitter = "username"
-  # instagram = "username"
   linkedin = "jalexspringer"
-  # telegram = "username"
-  github = "narrativai"
-  # gitlab = "username"
-  # bitbucket = "username"
+  github = "alex-narrativai"
   email = "alex@narrativai.com"
 
 

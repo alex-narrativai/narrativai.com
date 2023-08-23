@@ -11,7 +11,9 @@ thumbnail:
   src: "img/othermetadraw.png"
   visibility:
     - list
-    - post
+
+authorbox: false
+sidebar: true
 ---
 Narrativai Revenue Consulting (NRC) is a specialized firm that accelerates revenue growth for early-stage B2B SaaS companies. Our team comprises seasoned Chief Revenue Officers, Revenue Operations leaders, and sales managers.Our focus is on early-stage companies in the seed or Series A/B round transitioning from founder-led sales to a scalable go-to-market function.
 

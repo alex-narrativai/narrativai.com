@@ -2,12 +2,11 @@
 title: "OKR Delivery Process"
 date: 2023-08-23T17:56:03+01:00
 draft: false
-lead: "Time to learn from the past."
+lead: "They really can work for you, not stop you from working."
 thumbnail:
   src: "img/metadraw.png"
   visibility:
     - list
-    - post
 
 ---
 A clear and repeatable way to introduce some intelligence into how you approach measuring initiatives and results against OKRs. One that won't take up more time in the planning than in getting shit done.
@@ -18,7 +17,7 @@ A clear and repeatable way to introduce some intelligence into how you approach 
 
 # Objective and Key Result Delivery Process
 
-## Initial Submission and Review
+## 1. Initial Submission and Review
 - Project Ticket Submitted For Review/Approval
     - Problem or challenge addressed
     - Potential value of delivering on this opportunity
@@ -38,7 +37,7 @@ A clear and repeatable way to introduce some intelligence into how you approach 
 	    - Could Do
 	    - Won't Do
 
-## Project Planning
+## 2. Project Planning
 - RACI Completion
     - Who is responsible? Accountable? Consulted? Informed?
 - Scoping and design
@@ -51,7 +50,7 @@ A clear and repeatable way to introduce some intelligence into how you approach 
     - BI Tool: Confirm metric's availability and add the project measurement milestones
 - Final Approval of Project Plan     - MD/VP Sign Off
 
-## Kick Off and Execution
+## 3. Kick Off and Execution
 - Stakeholder Kick-off Session
     - Timelines, expectations, tasks, etc
     - 'Sprints' scheduled and agreed on
@@ -59,7 +58,7 @@ A clear and repeatable way to introduce some intelligence into how you approach 
 - Wrap Up and Qualitative Summary Gathering from Stakeholders
 - 🍾
 
-## Measurement and Retrospective
+## 4. Measurement and Retrospective
 - Incorporation of project history into ongoing metrics review
     - ex. pipeline review includes a 'causation/correlation' check for recent initiatives that may be impacting pipeline
 - Review of results at pre-agreed measurement checkpoints

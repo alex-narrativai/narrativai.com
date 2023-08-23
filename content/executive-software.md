@@ -1,8 +1,8 @@
 ---
-title: "Narrativai Executive Software"
+title: "Executive Insights"
 date: 2023-01-23T13:28:09+01:00
 draft: false
-description: "Narrativai Executive Software"
+description: "Executive Insights"
 menu: 
   main:
     name: 'Software'
@@ -11,7 +11,10 @@ thumbnail:
   src: "img/twomachines.png"
   visibility:
     - list
-    - post
+
+authorbox: false
+sidebar: true
+toc: false
 ---
 
 Narrativai aims to revolutionise the way businesses access, understand, and utilise critical qualitative and quantitative data by leveraging large language models, natural language search, generative AI, and data visualization tools.<!--more--> Our goal is to create a new business operating system that eventually replaces traditional CRMs and BI tools, weaving together the narrative of your business, bridging communication gaps, and making organizations more efficient, agile, and competitive.

@@ -4,4 +4,6 @@ description: Thoughts on revenue systems - compensation, incentives, go-to-marke
 menu:
     main:
         name: Posts
+
+
 ---
