@@ -41,7 +41,7 @@ How much additional runway would £1,750,000 get you? What could you invest in n
 
 Assuming you've sold a product that delivers actual ongoing value to your clients, it is better to take the annual deal at full price and bank the difference to invest in either product development or customer success - both of which are likely to cause a client to renew every year for 5 years.
 
-> Because at the end of the day the only reason a SaaS company should give a discount for multi-year commitments is if they have attrition issues.
+**Because at the end of the day the only reason a SaaS company should give a discount for multi-year commitments is if they have attrition issues.**
 
 Pulling that thread further - you are relying on your sales team being able to trick a customer into believing that the product will deliver value over the long term and hope that that value materialises before the customer gets frustrated and puts in notice at the end of the contract.
 
