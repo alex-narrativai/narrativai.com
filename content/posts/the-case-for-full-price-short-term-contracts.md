@@ -10,7 +10,7 @@ thumbnail:
     - post
 ---
 
-Your sales team has finally nearly landed that giant logo. You are the vendor of choice and about to present pricing. If you are like many SaaS companies you are on the brink of giving away revenue for the wrong reasons. <!--more--> Do those slides look like this?
+Your sales team has nearly landed that giant logo. You are the vendor of choice and about to present pricing. If you are like many SaaS companies you are on the brink of giving away revenue for the wrong reasons. <!--more--> Do those pricing presentation slides look like this?
 
 #### Slide 1 
 > £37,500/year*  *Based on 60 month agreement
@@ -41,7 +41,7 @@ How much additional runway would £1,750,000 get you? What could you invest in n
 
 Assuming you've sold a product that delivers actual ongoing value to your clients, it is better to take the annual deal at full price and bank the difference to invest in either product development or customer success - both of which are likely to cause a client to renew every year for 5 years.
 
-Because at the end of the day the only reason a SaaS company should give a discount for multi-year commitments is if they have attrition issues.
+> Because at the end of the day the only reason a SaaS company should give a discount for multi-year commitments is if they have attrition issues.
 
 Pulling that thread further - you are relying on your sales team being able to trick a customer into believing that the product will deliver value over the long term and hope that that value materialises before the customer gets frustrated and puts in notice at the end of the contract.
 
