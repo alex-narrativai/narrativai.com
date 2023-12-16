@@ -50,7 +50,7 @@ NRC addresses these challenges by partnering with a business for 3-6 months. Thi
 2. **Tech Stack and Data Structure:** We design a streamlined tech stack and resilient data structure, preventing the need for a complete overhaul of systems and loss of historical data in later stages.
 3. **Forecasting, Reporting, and Documentation:** We establish proven and easy-to-administer systems, preventing years of over-promising, under-performing, high-churn, and low-morale sales and success teams.
 4. **Sales and Success Team:** We help source, interview, and onboard the sales and success teams you need (including management), providing them with the training and context they need to grow with your business.
-5. **Financial Modeling and Market Analysis:** 
+5. **Market Analysis:** Move beyond competitor 'battlecards' and instead develop a real understanding of the value drivers that bring your buyers to a competitor and attract investment.
 
 
 
